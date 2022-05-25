@@ -49,3 +49,11 @@ main h2 {
     background-color: green;
     color: white;
 }
+
+/*Added My Style Below */
+.my-style {
+    color: rgb(218, 13, 13);
+    background-color: black;
+    padding: 3px;
+}
+
